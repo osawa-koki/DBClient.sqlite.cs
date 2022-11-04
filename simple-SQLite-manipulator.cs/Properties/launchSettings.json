@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "simple-SQLite-manipulator.cs": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

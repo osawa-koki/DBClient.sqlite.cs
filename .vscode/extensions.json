@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+      "alexcvzz.vscode-sqlite",
+      "ms-dotnettools.csharp",
+      "editorconfig.editorconfig",
+      "mhutchie.git-graph",
+      "eamodio.gitlens",
+      "davidanson.vscode-markdownlint",
+      "github.copilot"
+    ]
+}
