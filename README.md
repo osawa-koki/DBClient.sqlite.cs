@@ -1,6 +1,6 @@
 # DBClient.sqlite.cs
 
-C#でSQLiteを操作する学習用プロジェクト。  
+C#でSQLiteを操作するクライアントクラス。  
 
 ## 使い方
 
